@@ -4,3 +4,4 @@
 .idea/vcs.xml
 api/node_modules
 .idea/.gitignore
+api/data/products.json
